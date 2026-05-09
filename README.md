@@ -65,6 +65,16 @@ chmod +x run_demo.sh
 
 ---
 
+## 🚀 Deployment
+
+Click the buttons below to deploy this project live to the cloud:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Dakshdureja33/ai-whatsapp-business-assistant)
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDakshdureja33%2Fai-whatsapp-business-assistant)
+
+---
+
 ## 📁 Project Structure
 
 ```
